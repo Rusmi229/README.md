@@ -1,7 +1,8 @@
 # My Beecrowd Assignment
-**Name:** Israt joynal Rusmi <br>
-**ID:** E243410 <br>
-**Language:** C++ <br>
+**Name:** Israt joynal Rusmi 
+**ID:** E243410 
+**Language:** C++ 
+**Section:** 3AF
 | Problem | Title | Status |
 |---------|--------|-------|
 | 1000    | Hello World | AC |
@@ -33,8 +34,8 @@
 | 1040    | Average 3 | AC |
 | 1041    | Coordinates of a point | AC |
 | 1042    | Simple sort | AC |
-| 1043   | Triangle | AC |
-| 1044   | Multiplies | AC |
+| 1043    | Triangle | AC |
+| 1044    | Multiplies | AC |
 | 1045    | Triangle types | AC |
 | 1046    | Game Time | AC |
 | 1047    | Game time and minutes | AC |

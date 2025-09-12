@@ -1,5 +1,5 @@
 # My Beecrowd Assignment
-**Name:** Sumiya akter 
+**Name:** Sumiya akte 
 **ID:** E243412
 **Language:** C++ 
 **Section:** 3AF

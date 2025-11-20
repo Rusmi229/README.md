@@ -1,17 +1,25 @@
-# My codeforces Assignment (Contest#1)
+# My codeforces Assignment (Sheet#2)
 **Name:** Israt joynal rusmi
 **ID:** E243410
 **Language:** C++ 
 **Section:** 3AF
 | Problem | Status |
 |---------|-------|
-| A |       AC |
-| B |       AC |
-| C |       AC |
-| D |       Not|
+| D |       AC |
 | E |       AC |
 | F |       AC |
-| G |       AC |
+| G |       Not|
 | H |       AC |
 | I |       AC |
-| J |       AC |
+| P |       AC |
+| T |       AC |
+| W |       AC |
+| Left Triangle |  AC |
+| Right Triangle | AC |
+| Pyramid | AC |
+| Inverted Pyramid | AC |
+| Diamond | AC |
+| Number Triangle | AC |
+| Number Pyramid | AC  |
+| Alphabet Triangle | AC |
+| Butterfly Pattern | AC |

@@ -5,21 +5,20 @@
 **Section:** 3AF
 | Problem | Status |
 |---------|-------|
-| D |       AC |
-| E |       AC |
-| F |       AC |
-| G |       Not|
-| H |       AC |
-| I |       AC |
+| J |       AC |
+| K |       AC |
+| L |       AC |
+| M |       Not|
+| N |       AC |
+| 0 |       AC |
 | P |       AC |
+| Q |       AC |
+| R |       AC |
+| S |       AC |
 | T |       AC |
+| U |       AC |
+| V |       AC |
 | W |       AC |
-| Left Triangle |  AC |
-| Right Triangle | AC |
-| Pyramid | AC |
-| Inverted Pyramid | AC |
-| Diamond | AC |
-| Number Triangle | AC |
-| Number Pyramid | AC  |
-| Alphabet Triangle | AC |
-| Butterfly Pattern | AC |
+| X |       AC |
+| Y |      AC  |
+| Z |       AC |

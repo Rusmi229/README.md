@@ -5,20 +5,10 @@
 **Section:** 3AF
 | Problem | Status |
 |---------|-------|
-| J |       AC |
-| K |       AC |
-| L |       AC |
-| M |       Not|
-| N |       AC |
-| 0 |       AC |
-| P |       AC |
-| Q |       AC |
-| R |       AC |
-| S |       AC |
-| T |       AC |
-| U |       AC |
-| V |       AC |
-| W |       AC |
-| X |       AC |
-| Y |      AC  |
-| Z |       AC |
+| A |       AC |
+| B |       AC |
+| C |       AC |
+| D |       Not|
+| E |       AC |
+| F |       AC |
+
